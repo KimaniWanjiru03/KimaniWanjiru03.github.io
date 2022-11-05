@@ -1,21 +1,22 @@
 # Site settings
-title: Another Blog
-url: "http://laobubu.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
-baseurl: "/jekyll-theme-EasyBook" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
+title: A Journey
+url: "http://KimaniWanjiru03.github.io"    # the protocol and hostname of your site, eg. `http://KimaniWanjiru03.github.io`
+baseurl: "" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
 #timezone: Asia/Chongqing
 description: >
-  One or more sentences introducing this blog.
+  A journey that shows growth and solutions to financial problems using basic codes.
 
 # Your information
-email: your_email@example.com
-author: your_name
+email: immaculate.kimani@aims.ac.rw
+author: Immaculate Kimani
 avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
-profile: One sentence introducing yourself.
+profile: An adept sincerity to growth and assistance.
 #twitter_username: twitter_username
 #github_username:  github_username
 profile_links:
-  Email: "mailto:your_email@example.com"
-  GitHub: "https://github.com/laobubu/jekyll-theme-EasyBook"
+  Email: "mailto:immaculate.kimani@aims.ac.rw"
+  GitHub: "https://github.com/KimaniWanjiru03"
+  Linkedin: "https://www.linkedin.com/in/immaculate-kimani-a17a41198/"
   # You can add more profile links above, or edit _includes/sidebar.html 
 
 # Comment Service (Disqus or 多说)
