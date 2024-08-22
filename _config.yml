@@ -1,5 +1,5 @@
 # Site settings
-title: A Journey
+title: A Journey: An adept sincerity to growth and assistance.
 url: "http://KimaniWanjiru03.github.io"    # the protocol and hostname of your site, eg. `http://KimaniWanjiru03.github.io`
 baseurl: "" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
 #timezone: Asia/Chongqing
@@ -7,16 +7,18 @@ description: >
   A journey that shows growth and solutions to financial problems using basic codes.
 
 # Your information
-email: immaculate.kimani@aims.ac.rw
+email: kimaniwanjiru03@gmail.com
 author: Immaculate Kimani
 avatar: "https://github.com/KimaniWanjiru03/KimaniWanjiru03.github.io/blob/gh-pages/Pp.png?raw=true"
-profile: An adept sincerity to growth and assistance.
+profile: Data Scientist | Research Fellow | Actuarial Scientist.
 #twitter_username: twitter_username
-#github_username:  github_username
+#github_userna
+# me:  KimaniWanjiru03
 profile_links:
   Email: "mailto:immaculate.kimani@aims.ac.rw"
   GitHub: "https://github.com/KimaniWanjiru03"
   Linkedin: "https://www.linkedin.com/in/immaculate-kimani-a17a41198/"
+  Resume: "https://flowcv.com/resume/0savsr1bwm"
   # You can add more profile links above, or edit _includes/sidebar.html 
 
 # Comment Service (Disqus or 多说)
@@ -28,9 +30,14 @@ excerpt_separator: <!--more-->
 
 header:
   links:             # Links on the header. Link to in-site page with a slash as prefix
+    Home: /_posts_2024-22-08-Welcoome-Wanjiru_Kimani's_website/
     About: /about/
-    Category: /category/
-    Donate: https://laobubu.net/donate.html
+    Projects: /projects/
+    Resume: /resume/
+    Blogs: /blogs/
+    Consulting: /consulting/
+    Contact: /contact/
+   
 
 permalink: /archivers/:title
 plugins:
