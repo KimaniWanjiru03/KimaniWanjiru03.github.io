@@ -1,26 +1,42 @@
 ---
 layout: default
-title: Category
-permalink: /category/
+title: Projects
+permalink: /projects/
 ---
 
 <div class="home">
-  <h1 class="page-heading">Category</h1>
+  <h1 class="page-heading">Projects</h1>
 
-  <ul class="post-list">
+  <ul class="project-list">
 
-{% capture categories %}{% for category in site.categories %}{{ category | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
-{% assign category = categories | split:',' | sort %}
-{% for item in (0..site.categories.size) %}{% unless forloop.last %}
-{% capture word %}{{ category[item] | strip_newlines }}{% endcapture %}
-<h2 class="category" id="{{ word }}">{{ word | upcase }}</h2>
-<ul>
-{% for post in site.categories[word] %}{% if post.title != null %}
-<li><span>{{ post.date | date: "%b %d" }}</span> » <a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
-{% endif %}{% endfor %}
-</ul>
-{% endunless %}{% endfor %}
+    <!-- Project 1 -->
+    <li>
+      <h2>Research on Finfluencers and Financial Inclusion</h2>
+      <p><strong>Date:</strong> Ongoing - 2024</p>
+      <p><strong>Description:</strong> Conducting research at the University of Tübingen in Germany to explore the impact of financial influencers (Finfluencers) on financial literacy and inclusion. This project leverages data science techniques to analyze the effectiveness of Finfluencers in enhancing financial knowledge among various demographics.</p>
+      <p><strong>Tools Used:</strong> Python, R, Machine Learning, Econometrics</p>
+      <p><strong>Link:</strong> <a href="https://github.com/your-github/finfluencers-research" target="_blank">GitHub Repository</a></p>
+    </li>
 
+    <!-- Project 2 -->
+    <li>
+      <h2>Credit Risk Assessment of Personal Loans Using Non-Parametric Survival Models</h2>
+      <p><strong>Date:</strong> 2023</p>
+      <p><strong>Description:</strong> A comprehensive study focused on developing credit risk models for Kenyan banks. The project utilized survival analysis to predict the time to default and assess the credit risk of personal loans, providing insights for improving the accuracy of credit scoring systems.</p>
+      <p><strong>Tools Used:</strong> Stata, R, Survival Analysis, Credit Scoring</p>
+      <p><strong>Link:</strong> <a href="https://github.com/your-github/credit-risk-analysis" target="_blank">GitHub Repository</a></p>
+    </li>
+
+    <!-- Project 3 -->
+    <li>
+      <h2>Benefits of Inclusive Insurance: A Case Study of the Low-Income Population in Kenya</h2>
+      <p><strong>Date:</strong> 2022</p>
+      <p><strong>Description:</strong> This project examined the impact of insurance on low-income populations in Kenya. Using machine learning models like Random Forests, the study predicted insurance status based on demographic characteristics, offering insights for policy makers on enhancing financial inclusion through insurance.</p>
+      <p><strong>Tools Used:</strong> Python, R, Random Forests, Data Analysis</p>
+      <p><strong>Link:</strong> <a href="https://github.com/your-github/inclusive-insurance-kenya" target="_blank">GitHub Repository</a></p>
+    </li>
+
+    <!-- Add more projects as needed -->
   </ul>
-  
+
 </div>
