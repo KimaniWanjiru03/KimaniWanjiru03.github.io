@@ -9,8 +9,7 @@ Data Scientist | Research Fellow | Actuarial Scientist
 
 Bio:
 
-I am Immaculate Wanjiru Kimani, a passionate Data Scientist with a strong foundation in Mathematical Sciences and Actuarial Science. My academic journey began with a Bachelor's degree in Actuarial Science from the
-Jomo Kenyatta University of Agriculture and Technology(JKUAT), Kenya, where I developed a deep interest in risk assessment, statistical modeling, and financial analysis. To further hone my skills, I pursued a Master's degree in Mathematical Sciences with a specialization in Data Science at the African Institute for Mathematical Sciences (AIMS), Rwanda.
+I am Immaculate Wanjiru Kimani, a passionate Data Scientist with a strong foundation in Mathematical Sciences and Actuarial Science. My academic journey began with a Bachelor's degree in Actuarial Science from the Jomo Kenyatta University of Agriculture and Technology(JKUAT), Kenya, where I developed a deep interest in risk assessment, statistical modeling, and financial analysis. To further hone my skills, I pursued a Master's degree in Mathematical Sciences with a specialization in Data Science at the African Institute for Mathematical Sciences (AIMS), Rwanda.
 
 During my time at AIMS, Rwanda, I gained proficiency in statistical programming languages such as Python, R, and Julia, and I developed a keen interest in using data to solve complex problems. My experience spans various domains, including finance, healthcare, and education, where I have applied my expertise in data analysis, machine learning, and econometrics to deliver actionable insights and drive decision-making processes.
 
