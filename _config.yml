@@ -1,8 +1,9 @@
 # Site settings
 title: A Journey: An adept sincerity to growth and assistance.
 url: "http://KimaniWanjiru03.github.io"    # the protocol and hostname of your site, eg. `http://KimaniWanjiru03.github.io`
-baseurl: "" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
-#timezone: Asia/Chongqing
+# baseurl: "" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
+# #timezone: Asia/Chongqing
+theme: jekyll-theme-cayman
 description: >
   A journey that shows growth and solutions to financial problems using basic codes.
 
